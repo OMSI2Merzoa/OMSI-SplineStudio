@@ -1,12 +1,12 @@
-# Spline Studio
+Spline Studio
 
-**OMSI 2 및 openOMSI를 위한 스플라인 제작·편집 프로그램**
+OMSI 2 및 openOMSI를 위한 스플라인 제작·편집 프로그램
 
-[English](README.md) | [다운로드](https://github.com/OMSI2Merzoa/OMSI-SplineStudio/releases) | [버그 제보 및 건의](https://github.com/OMSI2Merzoa/OMSI-SplineStudio/issues)
+English (https://github.com/OMSI2Merzoa/OMSI-SplineStudio/blob/main/README.md) | 다운로드 (https://github.com/OMSI2Merzoa/OMSI-SplineStudio/releases) | 버그 제보 및 건의 (https://github.com/OMSI2Merzoa/OMSI-SplineStudio/issues)
 
 ---
 
-## 프로그램 소개
+프로그램 소개
 
 Spline Studio는 OMSI 2 및 openOMSI의 맵 제작에 사용되는 스플라인(SLI)을 보다 쉽고 편리하게 제작할 수 있도록 개발된 프로그램입니다.
 
@@ -16,9 +16,9 @@ Spline Studio는 OMSI 2 및 openOMSI의 맵 제작에 사용되는 스플라인(
 
 초보 맵 제작자부터 숙련된 제작자까지 누구나 무료로 사용할 수 있습니다.
 
-## 주요 기능
+주요 기능
 
-### 스플라인 제작 및 편집
+스플라인 제작 및 편집
 
 - 기존 SLI 파일 불러오기 및 내보내기
 - 2D 단면 편집 및 정밀 좌표 설정
@@ -29,7 +29,7 @@ Spline Studio는 OMSI 2 및 openOMSI의 맵 제작에 사용되는 스플라인(
 - 기존 스플라인을 기반으로 한 파생 도로 제작
 - 스플라인 비교 및 다중 선택 편집
 
-### 3D 미리보기
+3D 미리보기
 
 - 실시간 3D 미리보기
 - 직선, 곡선 및 경사 구간 미리보기
@@ -37,7 +37,7 @@ Spline Studio는 OMSI 2 및 openOMSI의 맵 제작에 사용되는 스플라인(
 - 운전자 시점 미리보기
 - 미리보기 이미지 저장
 
-### 텍스처 및 재질
+텍스처 및 재질
 
 - 시각적인 UV 매핑 편집
 - 텍스처 미리보기 및 즉시 적용
@@ -46,14 +46,14 @@ Spline Studio는 OMSI 2 및 openOMSI의 맵 제작에 사용되는 스플라인(
 - OMSI 2 및 openOMSI 대상별 재질 설정
 - openOMSI용 PBR 리소스 관리
 
-### AI 경로
+AI 경로
 
 - 차량 및 보행자 경로 제작
 - 우측통행 및 좌측통행 지원
 - 도로 구성에 따른 AI 경로 자동 생성
 - AI 경로 위치 및 방향 편집
 
-### 프로젝트 및 리소스 관리
+프로젝트 및 리소스 관리
 
 - 다중 스플라인 프로젝트 관리
 - 프로젝트 공용 텍스처 관리
@@ -63,7 +63,7 @@ Spline Studio는 OMSI 2 및 openOMSI의 맵 제작에 사용되는 스플라인(
 - 프로젝트 백업 및 복원
 - 자동 저장 및 복구
 
-### 사용자 편의 기능
+사용자 편의 기능
 
 - 한국어 및 영어 지원
 - 다크, 라이트, 시스템 테마
@@ -74,7 +74,7 @@ Spline Studio는 OMSI 2 및 openOMSI의 맵 제작에 사용되는 스플라인(
 - GitHub 기반 자동 업데이트
 - 포터블 실행 환경
 
-## 지원 환경
+지원 환경
 
 | 항목 | 지원 환경 |
 |---|---|
@@ -85,33 +85,33 @@ Spline Studio는 OMSI 2 및 openOMSI의 맵 제작에 사용되는 스플라인(
 | 사용 비용 | 무료 |
 | 별도 .NET 설치 | 필요 없음 |
 
-## 다운로드 및 실행 방법
+다운로드 및 실행 방법
 
 1. GitHub Releases 페이지에 접속합니다.
-2. 원하는 버전의 SplineStudio ZIP 파일을 다운로드합니다.
+2. v1.0.0 릴리스에서 SplineStudio_v1.0.0_win-x64.zip을 다운로드합니다.
 3. 원하는 폴더에 압축을 해제합니다.
 4. SplineStudio.exe를 실행합니다.
 5. 최초 실행 시 기본 환경을 설정합니다.
 
 별도의 설치 과정은 필요하지 않습니다.
 
-[다운로드 페이지](https://github.com/OMSI2Merzoa/OMSI-SplineStudio/releases)
+다운로드 페이지 (https://github.com/OMSI2Merzoa/OMSI-SplineStudio/releases)
 
-## 자동 업데이트
+자동 업데이트
 
 Spline Studio는 GitHub Releases를 기반으로 새로운 버전을 확인할 수 있습니다.
 
 정식 버전과 베타 버전의 업데이트 채널을 선택할 수 있으며, 베타 버전을 사용하려면 환경 설정에서 베타 업데이트 포함 옵션을 활성화하십시오.
 
-## 개발 현황
+출시 정보
 
-Spline Studio는 현재 정식 출시를 준비하고 있습니다.
+Spline Studio v1.0.0은 첫 번째 정식 출시 버전입니다.
 
-정식 출시 전까지 기능 안정화, 사용자 인터페이스 개선 및 호환성 확인 작업이 진행될 예정입니다.
+신규 사용자는 기본적으로 정식 업데이트 채널을 사용하며, 기존 사용자의 업데이트 설정은 유지됩니다.
 
 사전 배포 버전에서는 일부 오류가 발생할 수 있으므로 중요한 프로젝트는 별도로 백업해 주시기 바랍니다.
 
-## 버그 제보 및 기능 건의
+버그 제보 및 기능 건의
 
 프로그램 사용 중 발견한 오류나 개선 사항은 GitHub Issues를 통해 제보해 주시기 바랍니다.
 
@@ -123,9 +123,9 @@ Spline Studio는 현재 정식 출시를 준비하고 있습니다.
 - 오류 메시지 또는 스크린샷
 - 관련 로그 및 재현 방법
 
-[버그 제보 및 기능 건의](https://github.com/OMSI2Merzoa/OMSI-SplineStudio/issues)
+버그 제보 및 기능 건의 (https://github.com/OMSI2Merzoa/OMSI-SplineStudio/issues)
 
-## 라이선스
+라이선스
 
 Spline Studio는 Spline Studio Freeware License v1.0에 따라 무료로 제공됩니다.
 
@@ -133,11 +133,11 @@ Spline Studio는 Spline Studio Freeware License v1.0에 따라 무료로 제공�
 
 단, 프로그램 자체의 무단 수정, 재배포 및 판매는 허용되지 않습니다.
 
-자세한 내용은 [LICENSE.txt](LICENSE.txt)를 참조하십시오.
+자세한 내용은 LICENSE.txt (LICENSE.txt)를 참조하십시오.
 
-## 개발자
+개발자
 
-**OMSI2Merzoa**
+OMSI2Merzoa
 
 Spline Studio는 OMSI 2 및 openOMSI 맵 제작자를 위한 독립적인 개발 프로젝트입니다.
 
